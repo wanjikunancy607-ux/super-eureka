@@ -1,1 +1,1 @@
-# super-eureka
+# super-eureka: stepping into tech with confidence
